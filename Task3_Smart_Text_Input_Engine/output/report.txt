@@ -1,0 +1,47 @@
+SMART TEXT INPUT ENGINE
+Enter the Sentence: i m gong to schol
+
+Corrected Sentence: I am going to school
+
+Confidence score of each word.!
+i → 100.0%
+am → 100.0%
+going → 100.0%
+to → 100.0%
+school → 66.0%
+
+
+Next Word Suggestions:
+with (Frequency: 3)
+, (Frequency: 3)
+'' (Frequency: 3)
+. (Frequency: 2)
+and (Frequency: 1)
+
+Enter a word from the sentence for meaning and synonyms, if not enter "no": school
+Meaning: an educational institution
+Synonyms: schoolhouse,shoal,schooling,educate,school
+
+Enter the Sentence: i am going to
+
+Corrected Sentence: I am going to
+
+Confidence score of each word.!
+i → 100.0%
+am → 100.0%
+going → 100.0%
+to → 100.0%
+
+
+Next Word Suggestions:
+be (Frequency: 51)
+do (Frequency: 16)
+get (Frequency: 10)
+have (Frequency: 10)
+the (Frequency: 9)
+
+Enter a word from the sentence for meaning and synonyms, if not enter "no": no
+
+Enter the Sentence: exit
+
+I hope I corrected ur sentence.

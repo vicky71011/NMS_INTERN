@@ -1,0 +1,3 @@
+nltx
+textblob
+wordfreq

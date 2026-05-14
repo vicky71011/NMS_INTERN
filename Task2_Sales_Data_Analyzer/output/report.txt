@@ -1,0 +1,21 @@
+Total Revenue: 71919778633.27
+
+Best Product:
+Redmi 9 Activ (Carbon Black, 4GB RAM, 64GB Storage) | Octa-core Helio G35 | 5000 mAh Battery 2667292164.0
+
+Top Categories:
+category
+Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones                 2.935870e+10
+Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions                        1.740790e+10
+Electronics|WearableTechnology|SmartWatches                                          3.581338e+09
+Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear                         3.072251e+09
+Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables    1.171594e+09
+Name: revenue, dtype: float64
+
+Top 5 Products:
+                                          product_name       revenue
+370  Redmi 9 Activ (Carbon Black, 4GB RAM, 64GB Sto...  2.667292e+09
+566  Redmi 9A Sport (Coral Green, 3GB RAM, 32GB Sto...  2.353426e+09
+371  Redmi 9A Sport (Coral Green, 2GB RAM, 32GB Sto...  2.039620e+09
+473  Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB St...  2.039594e+09
+124  Redmi 126 cm (50 inches) 4K Ultra HD Android S...  1.492809e+09
